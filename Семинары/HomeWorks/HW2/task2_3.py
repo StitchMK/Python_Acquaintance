@@ -5,8 +5,8 @@ n = int(input('Enter number of elements: '))
 sum = 0
 
 for i in range(1, n + 1):
-    numbers.append((1 + 1 / i) ** i)
-    sum += numbers[i]
+    numbers.append(round(((1 + 1 / i) ** i), 3))
+    sum += numbers[- 1]
 
 print(numbers)
 print(sum)
