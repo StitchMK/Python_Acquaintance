@@ -12,7 +12,7 @@ for i in range(- (n + 1), n):
 
 print(numbers)
 
-if position_1 > (n * 2) or position_2 > (n * 2):
+if position_1 > (n * 2) or position_2 > (n * 2) or position_1 < 0 or position_2 < 0:
     print('There are no values for these indexes!')
 else:
     product = numbers[position_1 - 1] * numbers[position_2 - 1]
