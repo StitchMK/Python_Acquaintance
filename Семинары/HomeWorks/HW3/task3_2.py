@@ -5,6 +5,8 @@ from random import sample
 import math
 
 def product_of_num(len_list):
+    if len_list < 0:
+        len_list *= -1
     new_list = sample(range(1, len_list * 2), k=len_list)
     print(new_list)
     product_list = []
@@ -15,7 +17,7 @@ def product_of_num(len_list):
         product_list.append(new_list[i] * new_list[len_list - 1 - i])
     if len_list % 2 != 0:
         product_list.append(new_list[(math.ceil(len_list / 2 - 1))])
-        
-    print(product_list)
+    
+    return product_list
 
 print(product_of_num(int (input('Input the length of your list: '))))
