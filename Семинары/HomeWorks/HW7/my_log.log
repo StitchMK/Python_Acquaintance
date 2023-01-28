@@ -16,3 +16,15 @@
 28-01-2023 19:18:43 - user_interface - INFO - menu_calc - Div: 3 // 5 = 0.6
 28-01-2023 19:25:57 - user_interface - INFO - menu_calc - Stop calc menu
 28-01-2023 19:25:59 - user_interface - INFO - menu - Stop program.
+28-01-2023 19:31:49 - main - INFO - <module> - Start program
+28-01-2023 19:31:59 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+28-01-2023 19:32:08 - user_interface - INFO - menu_divisions - Start menu divisions.
+28-01-2023 19:32:11 - user_interface - WARNING - menu_divisions - Main menu, wrong item selected.
+28-01-2023 19:32:29 - user_interface - WARNING - menu_divisions - Main menu, wrong item selected.
+28-01-2023 19:32:49 - user_interface - INFO - menu_divisions - Stop divisions menu
+28-01-2023 19:32:55 - user_interface - INFO - menu_calc - Sum: 3 + 5 = 8
+28-01-2023 19:33:09 - user_interface - INFO - menu_divisions - Start menu divisions.
+28-01-2023 19:33:11 - user_interface - WARNING - menu_divisions - Main menu, wrong item selected.
+28-01-2023 19:33:34 - user_interface - INFO - menu_calc - Div: 9 % 3 = 3.0
+28-01-2023 19:33:54 - user_interface - INFO - menu_calc - Stop calc menu
+28-01-2023 19:33:55 - user_interface - INFO - menu - Stop program.
