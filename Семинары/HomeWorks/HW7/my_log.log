@@ -1,0 +1,18 @@
+28-01-2023 19:07:52 - main - INFO - <module> - Start program
+28-01-2023 19:08:08 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+28-01-2023 19:08:20 - user_interface - INFO - menu_calc - Pow: 3 ^ 0.5 = 1.7320508075688772
+28-01-2023 19:08:42 - user_interface - INFO - menu_calc - Pow: 9 ^ 0.5 = 3.0
+28-01-2023 19:09:22 - user_interface - WARNING - menu_calc - Main menu, wrong item selected.
+28-01-2023 19:09:32 - user_interface - INFO - menu_calc - Stop calc menu
+28-01-2023 19:09:39 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+28-01-2023 19:10:03 - user_interface - INFO - menu_calc - Sum: (5+7j) + (2+4j) = (7+11j)
+28-01-2023 19:17:53 - user_interface - INFO - menu_calc - Div: (3+7j) / (8+9j) = (0.6+0.19999999999999996j)
+28-01-2023 19:17:56 - user_interface - WARNING - menu_calc - Main menu, wrong item selected.
+28-01-2023 19:17:58 - user_interface - INFO - menu_calc - Stop calc menu
+28-01-2023 19:18:03 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+28-01-2023 19:18:22 - excep - WARNING - check_zero_real - Incorrect data entered: '0'!
+28-01-2023 19:18:28 - user_interface - INFO - menu_divisions - Start menu divisions.
+28-01-2023 19:18:35 - user_interface - WARNING - menu_divisions - Main menu, wrong item selected.
+28-01-2023 19:18:43 - user_interface - INFO - menu_calc - Div: 3 // 5 = 0.6
+28-01-2023 19:25:57 - user_interface - INFO - menu_calc - Stop calc menu
+28-01-2023 19:25:59 - user_interface - INFO - menu - Stop program.
